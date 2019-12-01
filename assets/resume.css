@@ -1,0 +1,35 @@
+.resume {
+    background-color: #011627;
+    color: #fdffcf;
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    border: 40px solid #22eecc;
+    border-top: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+p {
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
